@@ -1,1 +1,2 @@
-103.119.54.24:443,ID,PT. Eka Mas Republik
+13.251.129.128:443,SG,Amazon Data Services Singapore
+13.212.60.117:443,SG,Amazon Data Services Singapore
