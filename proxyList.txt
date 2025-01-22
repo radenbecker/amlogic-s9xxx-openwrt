@@ -1,0 +1,8 @@
+13.251.129.128:443,SG,Amazon com  Inc
+13.212.60.117:443,SG,Amazon com  Inc
+167.99.73.22:443,SG,Digitalocean  LLC
+143.198.213.197:443,SG,Digitalocean  LLC
+146.190.111.165:443,SG,Digitalocean  LLC
+178.128.80.43:443,SG,Digitalocean  LLC
+51.79.254.182:443,SG,OVH SAS
+166.108.233.26:443,SG,Huawei Clouds
